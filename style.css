@@ -659,6 +659,7 @@ article {
   font-size: 6.5vw;
 }
 .home-content p{
+  line-height: 4vw;
   width: 80%;
   font-size: 3.5vw;
   margin-top: 6vw;
@@ -683,7 +684,8 @@ article {
   height: 100%;
 } */
 #about{
-  padding: 15vw 4vw;
+  margin-bottom: -18%;
+  padding: 18vw 4vw;
 }
 .about-details-container{
   margin-top: 15vw;
@@ -702,7 +704,7 @@ article {
 .text-container{
   padding: 2vw 3vw;
   width: 100%;
-  font-weight: 550;
+  font-weight: 500;
 }
 #skills{
   margin-top: -8%;
@@ -722,8 +724,8 @@ article {
 }
 
 #projects{
-  margin-top: 15%;
-  padding: 1vw 5vw;
+ padding-left: 4vw;
+ padding-right: 4vw;
 }
 .projects-container{
   display: flex;
@@ -784,5 +786,9 @@ article {
   margin-right: 3vw;
 }
 }
+
+
+
+
 
 
